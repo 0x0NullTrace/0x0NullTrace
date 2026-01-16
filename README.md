@@ -32,16 +32,24 @@ Legal Evidence Recovery: Extracting deleted communications and documents for jud
 
 ​For immediate assistance with forensic acquisitions, breach investigations, or data recovery:
 ​
+
 WhatsApp: +213 552 99 49 21
 ​
+
 Telegram: @x0NullTrace
 
+
 ​LinkedIn: salimfouaissi
+
 ​
 Medium: salimfouaissi
 
+
+
 ​“Confidentiality and technical integrity are my highest priorities.”
 ​
+
+
 
 
 #0x0NullTrace #DigitalForensics #WindowsInternals #DFIR #IncidentResponse
