@@ -45,6 +45,10 @@ Telegram: @x0NullTrace
 Medium: salimfouaissi
 
 
+Freelancer: salimfouaissi33
+
+
+
 
 ​“Confidentiality and technical integrity are my highest priorities.”
 ​
